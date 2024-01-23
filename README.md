@@ -1,11 +1,11 @@
 # Excel_Vrinda_Store_Analysis
 
-### Vrinda Store Analysis and Dashboard Creation using Advanced Excel
+### _Vrinda Store Analysis and Dashboard Creation using Advanced Excel_
 
 This project involved the use of advanced Excel techniques such as pivot tables, pivot charts, charts, power query, data cleaning, and various functions and formulas to analyze Vrinda Store's sales and orders data. Several sample questions were addressed, and numerous insights were generated from the analysis.
 
 
-**Sample Questions Covered:**
+### _Sample Questions Covered:_
 
 1.Compare the sales and orders using a single chart.
 2.Which month had the highest sale and orders?
@@ -17,7 +17,7 @@ This project involved the use of advanced Excel techniques such as pivot tables,
 8.Highest selling category?, etc.
 
 
-**Sample Insights:**
+### _Sample Insights:_
 
 Based on the analysis, the following insights were obtained:
 
@@ -27,6 +27,6 @@ Based on the analysis, the following insights were obtained:
 -Amazon, Flipkart, and Myntra are the major contributing sales channels, accounting for about 80% of the sales.
 
 
-**Final Conclusion to Improve Vrinda Store Sales:**
+### _Final Conclusion to Improve Vrinda Store Sales:_
 
 In conclusion, to improve Vrinda Store sales, it is recommended to target women customers belonging to the age group of 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh. This can be achieved by showcasing targeted advertisements, offers, and coupons through prominent sales channels like Amazon, Flipkart, and Myntra. By focusing marketing efforts on these specific demographics and locations, Vrinda Store can potentially enhance its sales performance significantly.
