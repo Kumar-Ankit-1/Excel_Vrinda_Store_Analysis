@@ -7,24 +7,24 @@ This project involved the use of advanced Excel techniques such as pivot tables,
 
 ### _Sample Questions Covered:_
 
-1.Compare the sales and orders using a single chart.
-2.Which month had the highest sale and orders?
-3.Who purchased more - men or women in 2022?
-4.What are the different order statuses in 2022?
-5.List of 10 states contributing to the sales.
-6.Relation between age and gender based on the number of orders.
-7.Which channel is contributing to maximum sales?
-8.Highest selling category?, etc.
+  1. Compare the sales and orders using a single chart.
+  2. Which month had the highest sale and orders?
+  3. Who purchased more - men or women in 2022?
+  4. What are the different order statuses in 2022?
+  5. List of 10 states contributing to the sales.
+  6. Relation between age and gender based on the number of orders.
+  7. Which channel is contributing to maximum sales?
+  8. Highest selling category?, etc.
 
 
 ### _Sample Insights:_
 
 Based on the analysis, the following insights were obtained:
 
--Women are more likely to buy compared to men, constituting approximately 65% of the customer base.
--Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states contributing to sales.
--The adult age group (30-49 years) represents the largest consumer segment, contributing to approximately 50% of the sales.
--Amazon, Flipkart, and Myntra are the major contributing sales channels, accounting for about 80% of the sales.
+  - Women are more likely to buy compared to men, constituting approximately 65% of the customer base.
+  - Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states contributing to sales.
+  - The adult age group (30-49 years) represents the largest consumer segment, contributing to approximately 50% of the sales.
+  - Amazon, Flipkart, and Myntra are the major contributing sales channels, accounting for about 80% of the sales.
 
 
 ### _Final Conclusion to Improve Vrinda Store Sales:_
