@@ -1,6 +1,6 @@
 # Excel_Vrinda_Store_Analysis
 
-**Vrinda Store Analysis and Dashboard Creation using Advanced Excel**
+### Vrinda Store Analysis and Dashboard Creation using Advanced Excel
 
 This project involved the use of advanced Excel techniques such as pivot tables, pivot charts, charts, power query, data cleaning, and various functions and formulas to analyze Vrinda Store's sales and orders data. Several sample questions were addressed, and numerous insights were generated from the analysis.
 
